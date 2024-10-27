@@ -1,1 +1,29 @@
+4) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___
+1+2=3, 3+2=5, 5+2=7
+Logo, 7+2=9
+O próximo número será 9, pois são números impares
 
+b) 2, 4, 8, 16, 32, 64, ____
+2*2=4, 4*2=8, 8*2=16, 16*2=32, 32*2=64
+logo, 64*2=128
+O próximo número será 128, pois cada número é o dobro do anterior
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+0^2=0, 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, 6^2=36
+Logo, 7^2=49
+O próximo número será 49, pois são quadrados dos números.
+
+d) 4, 16, 36, 64, ____
+2^2=4, 4^2=16, 6^2=36, 8^2=64
+Logo, 10^2=100
+O pŕoximo número será 100, pois são quadrados dos números pares
+
+e) 1, 1, 2, 3, 5, 8, ____
+1+1=2, 1+2=3, 2+3=5, 3+5=8
+Logo, 5+8=13
+O pŕoximo número será 13, pois é a sequencia de Fibbonacci
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+2+8=10, 10+2=12, 12+4=16, 16+1=17, 17+1=18, 18+1=19
+Logo, parece que o próximo número será 19+1=20
