@@ -6,4 +6,4 @@
   imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-Resposta: No final do processamento, o valor da variável soma será 77, dado que no K=12 a soma será SOMA = 65+12, que resulta em 77.
+Resposta: No final do processamento, o valor da variável soma será 65, dado que no K=12 a soma será SOMA = 54+11, que resulta em 65.
